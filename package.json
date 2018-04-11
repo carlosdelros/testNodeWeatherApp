@@ -1,0 +1,17 @@
+{
+  "name": "weatherApp",
+  "version": "1.0.0",
+  "description": "Simple weather app used to reinforce some concepts. The app was implemented using callbacks, promises, and using the request library or the axios library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
